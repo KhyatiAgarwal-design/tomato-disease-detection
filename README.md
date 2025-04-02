@@ -1,4 +1,5 @@
 #Tomato Plant Disease Detection
+
 In this project,I have designed an AI-powered system for disease detection in the leaves of tomato plants based on deep learning principles. My tasks included data preprocessing, such as resizing images, normalization, and augmentation, for 
 enhancing model generalization. We were involved in training models utilizing CNN architectures like DenseNet121 and assisted with optimizing the classification model to perform 
 at high levels of accuracy. Moreover, I helped in performance assessment with metrics such as accuracy, precision, recall, and confusion matrix analysis to ensure sound disease detection and reduce overfitting.
